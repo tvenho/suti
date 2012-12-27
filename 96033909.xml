@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120924:96033909" version="1"
+	standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2"
+	xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd"
+	xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<catalogRef
+		href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml" />
+	<itemMeta>
+
+		<itemClass qcode="ninat:text" />
+		<provider literal="STT" />
+		<versionCreated>2012-09-24T08:08:23</versionCreated>
+		<firstCreated>2012-09-24T08:08:19</firstCreated>
+		<pubStatus qcode="stat:usable" />
+		<role qcode="sttarticletype:0001">
+			<name>Pääjuttu</name>
+		</role>
+		<service qcode="sttelementtype:0005">
+			<name>Lehtiversio</name>
+		</service>
+		<edNote />
+		<signal qcode="action:new" />
+	</itemMeta>
+	<contentMeta>
+		<urgency>3</urgency>
+		<contentCreated>2012-09-24T08:08:19</contentCreated>
+		<contentModified>2012-09-24T08:08:23</contentModified>
+		<located type="loctype:City">
+			<name>Helsinki</name>
+		</located>
+		<infoSource qcode="sttsource:0001">
+			<name>STT</name>
+		</infoSource>
+		<subject type="cpnat:runnumber" literal="Service run id"
+			qcode="sttrunnumber:029">
+			<name>stt 029</name>
+		</subject>
+		<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:82526">
+			<name>Pohjoismaisille turistikohteille halutaan oma ekomerkki</name>
+		</subject>
+		<subject type="cpnat:textpackageid" literal="Text package id"
+			qcode="stttextpackage:98085926">
+			<name>Pohjoismaisille turistikohteille halutaan oma ekomerkki</name>
+		</subject>
+		<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002447">
+			<name>2447</name>
+		</subject>
+		<subject type="cpnat:department" qcode="sttdepartment:0003">
+			<name>Kotimaa</name>
+		</subject>
+		<subject type="cpnat:category" qcode="subj:10000000">
+			<name>Vapaa-aika</name>
+		</subject>
+		<subject type="cpnat:category" qcode="subj:10006000">
+			<name>Lomamatkailu Turismi</name>
+		</subject>
+		<subject type="cpnat:category" qcode="subj:6000000">
+			<name>Ympäristö</name>
+		</subject>
+		<slugline>///LEHTIVERSIO LISÄKSI KAINALO JA KUVITUSKUVAA///</slugline>
+		<dateline>Helsinki</dateline>
+		<by>PAULA ROPPONEN</by>
+		<description role="drol:summary" />
+		<headline>Pohjoismaiden turistikohteille suositellaan yhteistä
+			ekomerkkiä</headline>
+		<creditline>STT</creditline>
+	</contentMeta>
+	<contentSet>
+		<inlineXML contenttype="xhtml/xml">
+			<html>
+				<body>
+					<h2>Suomalaisasiantuntija: Ekomerkki ei haittaisi, mutta
+						toteutuminen epäilyttää</h2>
+
+
+
+
+
+
+
+
+
+
+
+					<p>Pohjoismaiden turistikohteille halutaan yhteinen kestävän
+						kehityksen ekomerkki. Merkin kehittämistä ehdotetaan Pohjoismaiden
+						ministerineuvoston raportissa. STT:n haastattelemat suomalaiset
+						asiantuntijat suhtautuvat hankkeeseen vielä varauksella.</p>
+					<p>Matkailun edistämiskeskuksen (MEK) mukaan ekoturismimerkkejä on
+						kirjava määrä ja tarvetta kaikkien tunnistamalle kattomerkille
+						olisi. Nyt matkailijan on vaikea tietää lukuisista merkeistä, mitä
+						niiden takana on. Kattomerkin kehittämistä on kuitenkin yritetty
+						aiemminkin, mutta se on osoittautunut hankalaksi.</p>
+					<p>&#8211;&#8201; Jos olisi yhteispohjoismainen merkki, jota kaikki
+						Pohjoismaat käyttävät, se todennäköisesti aikaa myöten nostaisi
+						matkailukohteen arvoa, sanoo kehityspäällikkö Liisa Hentinen.</p>
+					<p>Hentisen mukaan suomalaiset matkailutuottajat ovat perinteisesti
+						melko nirsoja hakemaan merkkejä. Hentinen kertoo, että
+						ulkomaalaisille matkailijoille ei ole kovin suurta merkitystä
+						erilaisilla ekomerkeillä, vaan enemmän esimerkiksi luontokohteen
+						kunnossapidolla.</p>
+					<p>Suomen matkailuorganisaatioiden yhdistyksen Suoma ry:n mukaan
+						merkki ei välttämättä toisi paljon lisää matkakohteille.</p>
+					<p>&#8211;&#8201; Markkinoinnissa pystytään ilmaisemaan
+						ympäristöystävällisyys ja kestävä kehitys muutenkin. Ei se
+						haittaisi, jos se leima saataisiin. Mutta epäilen, päästäänkö
+						Pohjoismaiden tasolla merkin takana olevista asioista
+						yksimielisyyteen vai tuleeko siitä älyttömän pitkä prosessi,
+						kertoo toiminnanjohtaja Hannu Komu.</p>
+					<p></p>
+					<p>
+						<h3>Suomenlinna tai hiihtokeskus</h3>
+					</p>
+					<p></p>
+					<p>Raportissa kaavailtua turistikohteiden ympäristömerkkiä voisivat
+						hakea alueet ja yhteisöt, mutta eivät yksittäiset yritykset.
+						Suomalaisista kohteista kyseeseen voisivat tulla esimerkiksi
+						Suomenlinna, Lapin hiihtokeskus tai jokin Ahvenanmaan saarista.</p>
+					<p>Merkin ideana olisi kertoa matkakohteen ekologisuudesta
+						uskottavasti matkailijoille ja samalla kannustaa kohteita
+						kestävään kehitykseen.</p>
+					<p>Raportin tilanneen Pohjoismaiden ministerineuvoston
+						pienyhdyskuntien ryhmän puheenjohtaja Maria Gunnleivsdottir Hansen
+						kertoo, että ekomerkkiä pyritään viemään eteenpäin. Sen
+						toteutuminen vaatii kuitenkin vielä muun muassa rahoitusta ja
+						lisäsuunnittelua.</p>
+
+
+
+
+
+
+				</body>
+			</html>
+		</inlineXML>
+	</contentSet>
+</newsItem>
